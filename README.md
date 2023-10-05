@@ -11,8 +11,8 @@
 
 ### Currently working on
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=lexiechoi852&repo=easy-trip-next)](https://github.com/anuraghazra/github-readme-stats)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=lexiechoi852&repo=easy-trip-nest)](https://github.com/anuraghazra/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=lexiechoi852&repo=easy-trip-next)](https://github.com/lexiechoi852/easy-trip-next)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=lexiechoi852&repo=easy-trip-nest)](https://github.com/lexiechoi852/easy-trip-nest)
 
 ### Find me on
 
