@@ -8,12 +8,6 @@
 
 🔗 Feel free to explore my GitHub repositories to see some of the exciting projects I've been a part of. Let's connect and collaborate to create the next big thing in the world of web development! 🚀
 
-
-### Currently working on
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=lexiechoi852&repo=easy-trip-next)](https://github.com/lexiechoi852/easy-trip-next)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=lexiechoi852&repo=easy-trip-nest)](https://github.com/lexiechoi852/easy-trip-nest)
-
 ### Find me on
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/lexie-choi/)](https://www.linkedin.com/in/lexie-choi/)
